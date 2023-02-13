@@ -1,2 +1,2 @@
-# rburgues_web
-Sitio web personal
+# Mini Portfolio demo web
+Sitio web personal creado a modo de template con modo claro / obscuro
